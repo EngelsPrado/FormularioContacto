@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "formularioAngular"
+    }
+  },
+  "defaultProject": "formularioAngular",
+  "cli": {
+    "analytics": "54ac1d73-37f4-4490-82f7-a733c4a91262"
+  }
 }
